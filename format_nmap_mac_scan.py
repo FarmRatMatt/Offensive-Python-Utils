@@ -33,4 +33,4 @@ for host in hosts:
     ))
 
 # e.g.
-# sudo nmap sudo nmap -sn 192.168.0.1/24 | python3 format_nmap_mac_scan.py
+# sudo nmap -sn 192.168.0.1/24 | python3 format_nmap_mac_scan.py
